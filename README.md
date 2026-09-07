@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./banner.svg" alt="c2-profile-gen" width="800">
+</div>
+
 # C2 Profile Gen
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://python.org)
